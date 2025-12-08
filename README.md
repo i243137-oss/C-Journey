@@ -69,5 +69,7 @@ Thank you for visiting! ⭐️
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" alt="Coding Cat"/>
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="180" alt="C++ Logo"/>
+  <br>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220" alt="C++ Animation"/>
 </p>
