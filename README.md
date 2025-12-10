@@ -1,8 +1,8 @@
 # 🌟 C-Journey: My C++ Problem Solving Adventure! 🌟
 
 ![C++](https://img.shields.io/badge/C%2B%2B-questions-blue?logo=c%2B%2B)
-![Progress](https://img.shields.io/badge/Questions%20Solved-123-brightgreen)
-![Last Update](https://img.shields.io/badge/Last%20Updated-2025--12--08-blue)
+![Progress](https://img.shields.io/badge/Questions%20Solved-126-brightgreen)
+![Last Update](https://img.shields.io/badge/Last%20Updated-2025--12--09-blue)
 
 
 
@@ -36,8 +36,9 @@ Welcome to my C++ Journey! Here you'll find my solutions to **123+ coding questi
 ---
 
 ## ✨ Highlights
-- 📝 **123+ questions solved**
-- 🧠 **15+ core concepts mastered**
+- 📝 **126+ questions solved**
+- 🧠 **16+ core concepts mastered**
+- 🏆 Added Prim's MST cost matrix and updated BFS to start from vertex 1, removed vertex 0 edges.
 - 🎮 **Fun games and real-world projects**
 - 💡 **Continuous learning and improvement**
 
