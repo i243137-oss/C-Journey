@@ -1,15 +1,15 @@
 # 🌟 C-Journey: My C++ Problem Solving Adventure! 🌟
 
 ![C++](https://img.shields.io/badge/C%2B%2B-questions-blue?logo=c%2B%2B)
-![Progress](https://img.shields.io/badge/Questions%20Solved-126-brightgreen)
-![Last Update](https://img.shields.io/badge/Last%20Updated-2025--12--09-blue)
+![Progress](https://img.shields.io/badge/Questions%20Solved-128-brightgreen)
+![Last Update](https://img.shields.io/badge/Last%20Updated-2025--12--10-blue)
 
 
 
 ---
 
 ## 🚀 About This Repository
-Welcome to my C++ Journey! Here you'll find my solutions to **123+ coding questions** and projects, organized by topic. This repo is a reflection of my learning, growth, and passion for problem solving in C++.
+Welcome to my C++ Journey! Here you'll find my solutions to **120+ coding questions** and projects, organized by topic. This repo is a reflection of my learning, growth, and passion for problem solving in C++.
 
 ---
 
